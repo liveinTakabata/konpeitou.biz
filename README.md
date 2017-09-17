@@ -3,7 +3,7 @@
 ---
 
 ##メンバー
-*konpeitou(ディレクター),guratan(デザイナー)
+konpeitou(ディレクター),guratan(デザイナー兼癒し)
 
 ##ファイル構成
 
